@@ -1,0 +1,5 @@
+var accounts = web3.eth.getAccounts();
+accounts[0]
+var y = GatorToken.deployed();
+
+
